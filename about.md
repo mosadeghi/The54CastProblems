@@ -1,11 +1,11 @@
 # The54CastProblems
 
-aprat.com/The54Cast<br>
-telegram.me/The54Cast
+aprat = <a href="https://aprat.com/The54Cast">aprat.com/The54Cast</a><br>
+telegram = <a href="https://telegram.me/The54Cast"> @The54Cast </a>
 
 by
 
-Amirmohammad Mosadeghi<br>
+<h3>Amirmohammad Mosadeghi</h3><br>
 CE undergraduate<br>
 Faculty of Engineering<br>
 University of Guilan
