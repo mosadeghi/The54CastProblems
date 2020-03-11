@@ -5,7 +5,7 @@ telegram = <a href="https://telegram.me/The54Cast"> @The54Cast </a>
 
 by
 
-<h3>Amirmohammad Mosadeghi</h3><br>
+<h3>Amirmohammad Mosadeghi</h3>
 CE undergraduate<br>
 Faculty of Engineering<br>
 University of Guilan
